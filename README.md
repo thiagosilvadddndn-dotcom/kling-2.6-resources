@@ -1,0 +1,1 @@
+# kling-2.6-resources
